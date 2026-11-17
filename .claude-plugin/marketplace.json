@@ -1,0 +1,18 @@
+{
+  "name": "explanation",
+  "metadata": {
+    "description": "よく理解できていない分野の質問に、対話しながら答えるスキル"
+  },
+  "owner": {
+    "name": "tokiya-takai",
+    "url": "https://github.com/tokiya-takai"
+  },
+  "plugins": [
+    {
+      "name": "explanation",
+      "description": "よく理解できていない分野の質問に、必要な用語の理解度を聞いてから、足りない用語だけを1つずつ対話で説明するスキル",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
